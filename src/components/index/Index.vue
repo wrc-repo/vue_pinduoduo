@@ -38,7 +38,7 @@ export default {
   },
   methods: {
       getIndexData(){
-          axios.get('https://phpwrc.com/static/db.json')
+          axios.get('http://192.168.1.104:3000/data')
           .then(this._getIndexData);
       },
       _getIndexData(res){
