@@ -1,0 +1,100 @@
+{
+  "id": "1669095",
+  "name": "pdd-vue-demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2270449",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "8678290",
+      "name": "闹钟 时间 计时 提醒 限时 通知 线性",
+      "font_class": "naozhong",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1283993",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "2825942",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6464897",
+      "name": "向右",
+      "font_class": "arr-right",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "6981288",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2675927",
+      "name": "hot",
+      "font_class": "hot",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6201178",
+      "name": "category",
+      "font_class": "category",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "8989922",
+      "name": "个人中心",
+      "font_class": "ren",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11432473",
+      "name": "index",
+      "font_class": "index",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "12555413",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "12863385",
+      "name": "chat",
+      "font_class": "icon-chat",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "13244735",
+      "name": "search",
+      "font_class": "cx",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
